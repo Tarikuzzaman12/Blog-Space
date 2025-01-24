@@ -3,37 +3,30 @@
     "/_not-found/page": [
       "static/chunks/webpack-7844e8dfdd6b89f3.js",
       "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-8339dfdf94467857.js",
+      "static/chunks/517-fe882a976a10ccc2.js",
       "static/chunks/main-app-79c5f2755c6cf321.js",
       "static/chunks/app/_not-found/page-0043d75de3bc49f5.js"
     ],
     "/layout": [
       "static/chunks/webpack-7844e8dfdd6b89f3.js",
       "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-8339dfdf94467857.js",
+      "static/chunks/517-fe882a976a10ccc2.js",
       "static/chunks/main-app-79c5f2755c6cf321.js",
       "static/css/4228c4cca40fff50.css",
       "static/chunks/173-767e48b05c5f9370.js",
       "static/chunks/app/layout-2540f4566db59da9.js"
     ],
-    "/api/auth/[kindeAuth]/route": [
-      "static/chunks/webpack-7844e8dfdd6b89f3.js",
-      "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-8339dfdf94467857.js",
-      "static/chunks/main-app-79c5f2755c6cf321.js",
-      "static/chunks/app/api/auth/[kindeAuth]/route-0e54b0f9cbb29cfb.js"
-    ],
     "/blog/[id]/page": [
       "static/chunks/webpack-7844e8dfdd6b89f3.js",
       "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-8339dfdf94467857.js",
+      "static/chunks/517-fe882a976a10ccc2.js",
       "static/chunks/main-app-79c5f2755c6cf321.js",
       "static/chunks/app/blog/[id]/page-32eddcfc74f7a868.js"
     ],
     "/page": [
       "static/chunks/webpack-7844e8dfdd6b89f3.js",
       "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-8339dfdf94467857.js",
+      "static/chunks/517-fe882a976a10ccc2.js",
       "static/chunks/main-app-79c5f2755c6cf321.js",
       "static/chunks/173-767e48b05c5f9370.js",
       "static/chunks/app/page-453ec408a21ecbea.js"
@@ -41,9 +34,16 @@
     "/profile/page": [
       "static/chunks/webpack-7844e8dfdd6b89f3.js",
       "static/chunks/4bd1b696-20882bf820444624.js",
-      "static/chunks/517-8339dfdf94467857.js",
+      "static/chunks/517-fe882a976a10ccc2.js",
       "static/chunks/main-app-79c5f2755c6cf321.js",
       "static/chunks/app/profile/page-8795d90bb28cb210.js"
+    ],
+    "/api/auth/[kindeAuth]/route": [
+      "static/chunks/webpack-7844e8dfdd6b89f3.js",
+      "static/chunks/4bd1b696-20882bf820444624.js",
+      "static/chunks/517-fe882a976a10ccc2.js",
+      "static/chunks/main-app-79c5f2755c6cf321.js",
+      "static/chunks/app/api/auth/[kindeAuth]/route-0e54b0f9cbb29cfb.js"
     ]
   }
 }

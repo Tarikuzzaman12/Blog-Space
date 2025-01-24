@@ -1,4 +1,4 @@
-// File: F:\PHero Assignment\blog-assignment\src\app\api\auth\[kindeAuth]\route.js
+// File: D:\my-pojects\blog-space\src\app\api\auth\[kindeAuth]\route.js
 import * as entry from '../../../../../../src/app/api/auth/[kindeAuth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

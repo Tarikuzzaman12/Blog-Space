@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/next"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/$1"
+      }
+    ],
+    "env": {
+      "NEXT_PUBLIC_API_URL": "your-api-url-here",
+      "NEXT_PUBLIC_APP_NAME": "Blog Space"
+    }
+  }
+  
